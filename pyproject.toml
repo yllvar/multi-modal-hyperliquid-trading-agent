@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-trading-agent"
+version = "0.1.0"
+description = "AI Trading Agent System"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+authors = [
+    { name = "Your Name", email = "your.email@example.com" },
+]
+dependencies = [
+    "aiohttp>=3.8.0",
+    "numpy>=1.24.0",
+    "pandas>=1.5.0",
+    "python-dateutil>=2.8.2",
+    "pytz>=2022.7",
+    "typing-extensions>=4.4.0",
+    "python-dotenv (>=1.2.1,<2.0.0)",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.2.0",
+    "pytest-asyncio>=0.20.3",
+    "pytest-cov>=4.0.0",
+    "pytest-xprocess>=1.0.0",
+    "black>=22.12.0",
+    "isort>=5.11.4",
+    "mypy>=0.991",
+    "flake8>=6.0.0",
+    "pylint>=2.15.0",
+]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+python_files = "test_*.py"
+addopts = "-v"

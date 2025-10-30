@@ -1,0 +1,44 @@
+aiohttp        # For async HTTP requests
+aiosignal     # Signal handling for asyncio
+async-timeout  # Timeout management for asyncio
+asyncio               # Asynchronous I/O
+attrs                # Classes without boilerplate
+certifi          # SSL certificates
+charset-normalizer    # Character encoding detection
+frozenlist           # List-like structure that can be frozen
+idna                     # Internationalized Domain Names
+multidict            # Multidict implementation
+numpy                # Numerical operations
+pandas               # Data manipulation and analysis
+python-dateutil      # Date/time utilities
+pytz                # Timezone support
+six                 # Python 2 and 3 compatibility
+typing-extensions       # Type hints support
+yarl                 # URL handling
+
+# Testing
+pytest                # Testing framework
+pytest-asyncio       # Asyncio support for pytest
+pytest-cov            # Coverage reporting
+pytest_xprocess        
+
+# Development
+black              # Code formatter
+isort              # Import sorter
+mypy                  # Static type checking
+flake8               # Linting
+pylint                # Python linter
+
+# Documentation
+sphinx                # Documentation generator
+sphinx-rtd-theme      # ReadTheDocs theme
+myst-parser        # Markdown support for Sphinx
+
+
+ccxt                 # Cryptocurrency exchange library
+python-dotenv       # Environment variable management
+ta-lib            # Technical analysis library
+websockets             # WebSocket client/server
+pyyaml                # YAML parser
+tqdm              # Progress bars
+requests            # HTTP requests (synchronous)

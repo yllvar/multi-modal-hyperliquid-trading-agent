@@ -1,0 +1,1319 @@
+{
+  "version": "1.0",
+  "last_updated": "list_hyperliquid_symbols.py",
+  "symbols": {
+    "0G": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "2Z": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "AAVE": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ACE": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ADA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "AI": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "AI16Z": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "AIXBT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ALGO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ALT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ANIME": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "APE": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "APEX": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "APT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "AR": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ARB": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ARK": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ASTER": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ATOM": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "AVAX": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "AVNT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BABY": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BADGER": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BANANA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BCH": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BERA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BIGTIME": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BIO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BLAST": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BLUR": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BLZ": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BNB": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BNT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BOME": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BRETT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BSV": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "BTC": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "CAKE": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "CANTO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "CATI": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "CELO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "CFX": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "CHILLGUY": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "COMP": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "CRV": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "CYBER": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "DOGE": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "DOOD": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "DOT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "DYDX": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "DYM": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "EIGEN": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ENA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ENS": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ETC": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ETH": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ETHFI": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "FARTCOIN": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "FET": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "FIL": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "FRIEND": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "FTM": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "FTT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "FXS": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "GALA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "GAS": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "GMT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "GMX": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "GOAT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "GRASS": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "GRIFFAIN": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "HBAR": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "HEMI": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "HMSTR": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "HPOS": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "HYPE": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "HYPER": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ILV": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "IMX": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "INIT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "INJ": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "IO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "IOTA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "IP": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "JELLY": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "JTO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "JUP": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "KAITO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "KAS": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "KBONK": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "KDOGS": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "KFLOKI": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "KLUNC": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "KNEIRO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "KPEPE": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "KSHIB": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "LAUNCHCOIN": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "LAYER": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "LDO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "LINEA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "LINK": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "LISTA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "LOOM": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "LTC": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MANTA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MATIC": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MAV": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MAVIA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ME": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MEGA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MELANIA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MEME": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MERL": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MET": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MEW": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MINA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MKR": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MNT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MON": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MOODENG": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MORPHO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MOVE": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "MYRO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "NEAR": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "NEIROETH": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "NEO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "NFTI": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "NIL": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "NOT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "NTRN": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "NXPC": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "OGN": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "OM": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "OMNI": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ONDO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "OP": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ORBS": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ORDI": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "OX": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "PANDORA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "PAXG": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "PENDLE": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "PENGU": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "PEOPLE": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "PIXEL": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "PNUT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "POL": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "POLYX": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "POPCAT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "PROMPT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "PROVE": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "PUMP": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "PURR": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "PYTH": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "RDNT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "RENDER": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "REQ": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "RESOLV": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "REZ": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "RLB": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "RNDR": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "RSR": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "RUNE": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "S": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "SAGA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "SAND": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "SCR": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "SEI": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "SHIA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "SKY": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "SNX": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "SOL": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "SOPH": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "SPX": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "STBL": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "STG": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "STRAX": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "STRK": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "STX": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "SUI": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "SUPER": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "SUSHI": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "SYRUP": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "TAO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "TIA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "TNSR": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "TON": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "TRB": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "TRUMP": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "TRX": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "TST": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "TURBO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "UMA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "UNI": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "UNIBOT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "USTC": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "USUAL": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "VINE": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "VIRTUAL": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "VVV": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "W": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "WCT": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "WIF": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "WLD": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "WLFI": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "XAI": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "XLM": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "XPL": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "XRP": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "YGG": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "YZY": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ZEC": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ZEN": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ZEREBRO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ZETA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ZK": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ZORA": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    },
+    "ZRO": {
+      "enabled": true,
+      "min_volume": 100000,
+      "max_volume": 10000000,
+      "notes": ""
+    }
+  },
+  "default_settings": {
+    "min_volume": 100000,
+    "max_volume": 10000000,
+    "enabled": true
+  }
+}
