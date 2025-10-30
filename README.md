@@ -83,54 +83,6 @@ See the full [Architecture Documentation](docs/ARCHITECTURE.md) for detailed inf
 - Poetry (for dependency management)
 - API keys for required services
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Gajesh2007/ai-trading-agent.git
-   cd ai-trading-agent
-   ```
-
-2. Set up the virtual environment and install dependencies:
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-   pip install -r requirements.txt
-   ```
-
-3. Configure environment variables:
-   ```bash
-   cp .env.example .env
-   # Update .env with your API keys and configuration
-   ```
-
-4. Run the test suite:
-   ```bash
-   python -m pytest tests/ -v
-   ```
-
-## ⚙️ Configuration
-
-### Environment Variables
-
-#### Required
-- `MESSAGE_BUS_URL`: URL for the message bus (e.g., `redis://localhost:6379`)
-- `LOG_LEVEL`: Logging level (e.g., `INFO`, `DEBUG`)
-
-#### Trading Configuration
-- `MAX_POSITION_SIZE`: Maximum position size as percentage of portfolio
-- `MAX_RISK_PER_TRADE`: Maximum risk per trade as percentage of portfolio
-- `DEFAULT_SLIPPAGE`: Default slippage tolerance
-
-#### API Keys
-- `TAAPI_API_KEY`: API key for TAAPI (technical analysis)
-- `TOGETHER_API_KEY`: API key for Together.ai (LLM services)
-
-### Obtaining API Keys
-- **TAAPI_API_KEY**: Sign up at [TAAPI.io](https://taapi.io/) and generate an API key from your dashboard.
-- **HYPERLIQUID_PRIVATE_KEY**: Generate an Ethereum-compatible private key for Hyperliquid. Use tools like MetaMask or `eth_account` library. For security, never share this key.
-- **OPENROUTER_API_KEY**: Create an account at [OpenRouter.ai](https://openrouter.ai/), then generate an API key in your account settings.
-- **LLM_MODEL**: No key needed; specify a model name like "x-ai/grok-4" (see OpenRouter models list).
 
 ## 🏃‍♂️ Running the System
 
@@ -167,24 +119,6 @@ pytest --cov=agents tests/ -v
 - **Base Agent**: 79%
 - **Execution Agent**: 40%
 - **Analysis Agent**: 51%
-
-Docker:
-```bash
-docker build --platform linux/amd64 -t trading-agent .
-docker run --rm -p 3000:3000 --env-file .env trading-agent
-# Now: curl http://localhost:3000/diary
-```
-
-## Tool Calling
-The agent can dynamically fetch any TAAPI indicator (e.g., EMA, RSI) via tool calls. See [TAAPI Indicators](https://taapi.io/indicators/) and [EMA Example](https://taapi.io/indicators/exponential-moving-average/) for details.
-
-## Deployment to EigenCloud
-
-EigenCloud (via EigenX CLI) allows deploying this trading agent in a Trusted Execution Environment (TEE) with secure key management.
-
-### Prerequisites
-- Allowlisted Ethereum account (Sepolia for testnet). Request onboarding at [EigenCloud Onboarding](https://onboarding.eigencloud.xyz).
-- Docker installed.
 
 ### Installation
 #### macOS/Linux
