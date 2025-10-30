@@ -1,6 +1,6 @@
 # AI Trading Agent
 
-An AI-powered trading system that implements a multi-agent architecture for automated cryptocurrency trading with integrated risk management and execution capabilities.
+An AI-powered trading system that implements a multi-agent architecture for automated cryptocurrency trading with integrated risk management and execution capabilities. 
 
 ## Features
 
